@@ -57,6 +57,7 @@ Week 18. 期末報告
 
 ## 參考資料：
 
+* [VirtualBox下載](https://www.virtualbox.org/wiki/Downloads)
 * [Python官網](https://www.python.org/)
 * [scikit-learn官網](http://scikit-learn.org/stable/)
 * [kaggle官網](https://www.kaggle.com/)
