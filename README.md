@@ -2,7 +2,22 @@
 
 備課中，內容會隨著學生的反應調整。
 
-課綱 (暫定如下)：
+## 修課前提:
+
+學生需了解網路基本原理、熟悉 Python 程式設計、熟悉命令列指令操作。 
+
+## 課程目標：
+
+讓學生瞭解巨量資料分析理論，並知悉巨量資料分析技術，預期課程結束時，學生能以 Python 相關套件實作出一個財金應用專題。
+
+## 評分方式：
+
+* 課堂參與及個人新知報告 (20%)
+* 平時作業 (20%)
+* 期中報告 (20%)
+* 期末報告 (20%)
+
+## 課綱 (暫定如下)：
 
 Week 01. 課堂大綱解說與電腦環境設定說明
 
@@ -40,12 +55,14 @@ Week 17. Spark 機器學習 (三)
 
 Week 18. 期末報告
 
-
-參考資料：
+## 參考資料：
 
 * [Python官網](https://www.python.org/)
 * [scikit-learn官網](http://scikit-learn.org/stable/)
 * [kaggle官網](https://www.kaggle.com/)
+* [AWS官網](https://aws.amazon.com/tw/)
+* [Google Cloud官網](https://cloud.google.com/)
+* [Azure官網](https://azure.microsoft.com/zh-tw/)
 * [Docker官網](https://www.docker.com/)
 * [Kubernetes](https://kubernetes.io/)
 * [Ansible官網](https://www.ansible.com/)
