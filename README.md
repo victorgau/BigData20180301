@@ -1,6 +1,6 @@
 # 巨量資料分析導論 上課資料
 
-備課中，內容會隨著學生的反應調整
+備課中，內容會隨著學生的反應調整。
 
 課綱 (暫定如下)：
 
@@ -41,4 +41,14 @@ Week 17. Spark 機器學習 (三)
 Week 18. 期末報告
 
 
+參考資料：
 
+* [Python官網](https://www.python.org/)
+* [scikit-learn官網](http://scikit-learn.org/stable/)
+* [kaggle官網](https://www.kaggle.com/)
+* [Docker官網](https://www.docker.com/)
+* [Kubernetes](https://kubernetes.io/)
+* [Ansible官網](https://www.ansible.com/)
+* [Vagrant官網](https://www.vagrantup.com/)
+* [Hadoop官網](http://hadoop.apache.org/)
+* [Spark官網](https://spark.apache.org/)
