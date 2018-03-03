@@ -35,6 +35,11 @@ Week 06. 雲端服務簡介
 
 Week 07. 容器技術簡介 (一)
 
+* [Get Started with Docker](https://docs.docker.com/get-started/)
+* [Try Docker | Code School](https://www.codeschool.com/courses/try-docker)
+* [Docker Tutorials and Labs](https://github.com/docker/labs)
+* [Katacoda](https://www.katacoda.com/)
+
 Week 08. 容器技術簡介 (二)
 
 Week 09. 期中報告
@@ -72,3 +77,7 @@ Week 18. 期末報告
 * [Vagrant官網](https://www.vagrantup.com/)
 * [Hadoop官網](http://hadoop.apache.org/)
 * [Spark官網](https://spark.apache.org/)
+
+## 相關資料：
+
+* []()
