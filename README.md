@@ -80,4 +80,4 @@ Week 18. 期末報告
 
 ## 相關資料：
 
-* []()
+* [Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
