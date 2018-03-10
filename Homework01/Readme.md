@@ -23,3 +23,4 @@ a = [1, 2, 3, [4, 5, 6], 7, 8, 9]
 
 請問如何得將 list 裡面的 list 反轉？
 
+範例請見：[Homework 01.ipynb](https://github.com/victorgau/BigData20180301/blob/master/Homework01/Homework%2001.ipynb)

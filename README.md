@@ -24,6 +24,7 @@ Week 01. 課堂大綱解說與電腦環境設定說明
 Week 02. Python 簡介
 
 * [Python簡介](https://github.com/victorgau/Python_Basics)
+* [Homework 01](https://github.com/victorgau/BigData20180301/tree/master/Homework01)
 
 Week 03. Python 機器學習 (一)
 
