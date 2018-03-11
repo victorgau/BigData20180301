@@ -19,49 +19,51 @@
 
 ## 課綱 (暫定如下)：
 
-Week 01. 課堂大綱解說與電腦環境設定說明
+### Week 01. 課堂大綱解說與電腦環境設定說明
 
-Week 02. Python 簡介
+### Week 02. Python 簡介
 
 * [Python簡介](https://github.com/victorgau/Python_Basics)
 * [Homework 01](https://github.com/victorgau/BigData20180301/tree/master/Homework01) - DUE: 2018/03/16 12:00pm (中午 12 點)
 
-Week 03. Python 機器學習 (一)
+### Week 03. Python 機器學習 (一)
 
-Week 04. Python 機器學習 (二)
+我們預計會先複習一下 Numpy, MatPlotLib, Pandas，然後再簡單的說明一些機器學習的概念，跟 Python 套件、模組 (e.g., scikit-learn) 的使用。從動手做激發同學們的對理論自發性的探索。
 
-Week 05. 巨量資料 (Big Data) 分析簡介
+### Week 04. Python 機器學習 (二)
 
-Week 06. 雲端服務簡介
+### Week 05. 巨量資料 (Big Data) 分析簡介
 
-Week 07. 容器技術簡介 (一)
+### Week 06. 雲端服務簡介
+
+### Week 07. 容器技術簡介 (一)
 
 * [Get Started with Docker](https://docs.docker.com/get-started/)
 * [Try Docker | Code School](https://www.codeschool.com/courses/try-docker)
 * [Docker Tutorials and Labs](https://github.com/docker/labs)
 * [Katacoda](https://www.katacoda.com/)
 
-Week 08. 容器技術簡介 (二)
+### Week 08. 容器技術簡介 (二)
 
-Week 09. 期中報告
+### Week 09. 期中報告
 
-Week 10. Hadoop 環境建置說明
+### Week 10. Hadoop 環境建置說明
 
-Week 11. Hadoop 使用教學 (一)
+### Week 11. Hadoop 使用教學 (一)
 
-Week 12. Hadoop 使用教學 (二)
+### Week 12. Hadoop 使用教學 (二)
 
-Week 13. Spark 環境建置說明
+### Week 13. Spark 環境建置說明
 
-Week 14. Spark 使用教學
+### Week 14. Spark 使用教學
 
-Week 15. Spark 機器學習 (一)
+### Week 15. Spark 機器學習 (一)
 
-Week 16. Spark 機器學習 (二)
+### Week 16. Spark 機器學習 (二)
 
-Week 17. Spark 機器學習 (三)
+### Week 17. Spark 機器學習 (三)
 
-Week 18. 期末報告
+### Week 18. 期末報告
 
 ## 參考資料：
 
