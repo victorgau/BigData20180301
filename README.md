@@ -1,6 +1,6 @@
 # 巨量資料分析導論 上課資料
 
-備課中，內容會隨著學生的反應調整。
+底下為概略的課綱，實際內容會隨著學生的反應調整。
 
 ## 修課前提:
 
@@ -30,7 +30,7 @@
 
 先複習一下 Numpy, MatPlotLib, Pandas，然後再簡單的說明一些機器學習的概念，跟 Python 套件、模組 (e.g., scikit-learn) 的使用。從動手做激發同學們的對理論自發性的探索。
 
-* [投影片](https://goo.gl/89cMge)
+* [投影片](http://bit.ly/2FDEvCH)
 * [Numpy, MatPlotLib, Pandas簡介](https://goo.gl/YcsKxt)
 * [Scikit-Learn使用範例](https://goo.gl/BRYJz6)
 
