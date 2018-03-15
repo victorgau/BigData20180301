@@ -28,9 +28,15 @@
 
 ### Week 03. Python 機器學習 (一)
 
-我們預計會先複習一下 Numpy, MatPlotLib, Pandas，然後再簡單的說明一些機器學習的概念，跟 Python 套件、模組 (e.g., scikit-learn) 的使用。從動手做激發同學們的對理論自發性的探索。
+先複習一下 Numpy, MatPlotLib, Pandas，然後再簡單的說明一些機器學習的概念，跟 Python 套件、模組 (e.g., scikit-learn) 的使用。從動手做激發同學們的對理論自發性的探索。
+
+* [投影片](https://goo.gl/89cMge)
+* [Numpy, MatPlotLib, Pandas簡介](https://goo.gl/YcsKxt)
+* [Scikit-Learn使用範例](https://goo.gl/BRYJz6)
 
 ### Week 04. Python 機器學習 (二)
+
+預計說明一下 dimensionality reduction, preprocessing, model selection, 跟 Kaggle。 
 
 ### Week 05. 巨量資料 (Big Data) 分析簡介
 
