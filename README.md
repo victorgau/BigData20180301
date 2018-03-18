@@ -30,7 +30,7 @@
 
 先複習一下 Numpy, MatPlotLib，然後再簡單的說明一下機器學習的概念跟 Python 套件、模組 (e.g., scikit-learn) 的使用。從動手做激發同學們的對理論自發性的探索。
 
-* [投影片](http://bit.ly/2FDEvCH)
+* [機器學習簡介 (投影片)](http://bit.ly/2FDEvCH)
 * [Numpy, MatPlotLib, Pandas簡介](https://goo.gl/YcsKxt)
 * [Scikit-Learn使用範例](https://goo.gl/BRYJz6)
 
