@@ -42,6 +42,11 @@
 
 ### Week 06. 雲端服務簡介
 
+* [AWS官網](https://aws.amazon.com/tw/)
+* [Google Cloud官網](https://cloud.google.com/)
+* [Azure官網](https://azure.microsoft.com/zh-tw/)
+* [Heroku官網](https://www.heroku.com/)
+
 ### Week 07. 容器技術簡介 (一)
 
 * [Get Started with Docker](https://docs.docker.com/get-started/)
@@ -82,9 +87,6 @@
 * [Python官網](https://www.python.org/)
 * [scikit-learn官網](http://scikit-learn.org/stable/)
 * [kaggle官網](https://www.kaggle.com/)
-* [AWS官網](https://aws.amazon.com/tw/)
-* [Google Cloud官網](https://cloud.google.com/)
-* [Azure官網](https://azure.microsoft.com/zh-tw/)
 * [Docker官網](https://www.docker.com/)
 * [Kubernetes](https://kubernetes.io/)
 * [Ansible官網](https://www.ansible.com/)
