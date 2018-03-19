@@ -73,6 +73,11 @@
 
 ## 參考資料：
 
+* [Sebastian Raschka, Python Machine Learning, Packt Publishing, 2015](http://bit.ly/2FM9CMN)
+* [林大貴, Python+Spark 2.0+Hadoop機器學習與大數據分析實戰, 博碩出版社, 2016](http://www.books.com.tw/products/0010730134)
+
+## 參考資料：
+
 * [VirtualBox下載](https://www.virtualbox.org/wiki/Downloads)
 * [Python官網](https://www.python.org/)
 * [scikit-learn官網](http://scikit-learn.org/stable/)
