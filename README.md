@@ -17,7 +17,12 @@
 * 期中報告 (30%)
 * 期末報告 (30%)
 
-## 課綱 (暫定如下)：
+## 參考書籍：
+
+* [Sebastian Raschka, Python Machine Learning, Packt Publishing, 2015](http://bit.ly/2FM9CMN)
+* [林大貴, Python+Spark 2.0+Hadoop機器學習與大數據分析實戰, 博碩出版社, 2016](http://www.books.com.tw/products/0010730134)
+
+## 課綱：
 
 ### Week 01. 課堂大綱解說與電腦環境設定說明
 
@@ -37,6 +42,8 @@
 ### Week 04. Python 機器學習 (二)
 
 預計先複習一下 Pandas，再說明一下 supervised 跟 unsupervised machine learning 的例子 (前一節課不夠時間講解)，接著說明 dimensionality reduction, preprocessing, model selection 等概念。如果時間夠會講一下 Kaggle，如果時間不夠，Kaggle 會挪到下一次上課講。
+
+* [GitHub - Python Machine Learning 2nd Edition](http://bit.ly/2leKZeb)
 
 ### Week 05. 巨量資料 (Big Data) 分析簡介
 
@@ -60,11 +67,16 @@
 
 ### Week 10. Hadoop 環境建置說明
 
+* [Single Node Cluster 安裝指令](https://goo.gl/X7ZcJj)
+* [Multi Node Cluster 安裝指令](https://goo.gl/Q9tCL7)
+
 ### Week 11. Hadoop 使用教學 (一)
 
 ### Week 12. Hadoop 使用教學 (二)
 
 ### Week 13. Spark 環境建置說明
+
+* [Spark 介紹與安裝](https://goo.gl/BbHGKt)
 
 ### Week 14. Spark 使用教學
 
@@ -75,11 +87,6 @@
 ### Week 17. Spark 機器學習 (三)
 
 ### Week 18. 期末報告
-
-## 參考書籍：
-
-* [Sebastian Raschka, Python Machine Learning, Packt Publishing, 2015](http://bit.ly/2FM9CMN)
-* [林大貴, Python+Spark 2.0+Hadoop機器學習與大數據分析實戰, 博碩出版社, 2016](http://www.books.com.tw/products/0010730134)
 
 ## 參考資料：
 
