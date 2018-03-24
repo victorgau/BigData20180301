@@ -44,6 +44,7 @@
 預計先複習一下 Pandas，再說明一下 supervised 跟 unsupervised machine learning 的例子 (前一節課不夠時間講解)，接著說明 dimensionality reduction, preprocessing, model selection 等概念。如果時間夠會講一下 Kaggle，如果時間不夠，Kaggle 會挪到下一次上課講。
 
 * [GitHub - Python Machine Learning 2nd Edition](http://bit.ly/2leKZeb)
+* [Homework 02](https://bit.ly/2IOLTJn)
 
 ### Week 05. 巨量資料 (Big Data) 分析簡介
 
