@@ -2,6 +2,8 @@
 
 底下為概略的課綱，實際內容會隨著學生的反應調整。
 
+(原先預定會涵蓋的容器技術，因為比較屬於 DevOps 技術而不是資料分析技術，經過考量先從課綱中往後挪，如果課程最後有足夠的時間才會再排入課綱。)
+
 ## 修課前提:
 
 學生需了解網路基本原理、熟悉 Python 程式設計、熟悉命令列指令操作。 
@@ -41,28 +43,25 @@
 
 ### Week 04. Python 機器學習 (二)
 
-預計先複習一下 Pandas，再說明一下 supervised 跟 unsupervised machine learning 的例子 (前一節課不夠時間講解)，接著說明 dimensionality reduction, preprocessing, model selection 等概念。如果時間夠會講一下 Kaggle，如果時間不夠，Kaggle 會挪到下一次上課講。
+複習 Pandas，然後繼續說明一下 supervised 跟 unsupervised machine learning 的例子。講了一點點 dimensionality reduction 跟 preprocessing。
 
 * [GitHub - Python Machine Learning 2nd Edition](http://bit.ly/2leKZeb)
 * [Homework 02](https://bit.ly/2IOLTJn)
 
-### Week 05. 巨量資料 (Big Data) 分析簡介
+### Week 05. Python 機器學習 (三)
 
-### Week 06. 雲端服務簡介
+繼續說明 dimensionality reduction, preprocessing, model selection 等概念。如果時間夠會講一下 Kaggle，如果時間不夠，Kaggle 會挪到下一次上課講。
+
+### Week 06. 4/5 學校沒有上課 (?)
+
+### Week 07. 巨量資料 (Big Data) 分析簡介
+
+### Week 08. 雲端服務簡介
 
 * [AWS官網](https://aws.amazon.com/tw/)
 * [Google Cloud官網](https://cloud.google.com/)
 * [Azure官網](https://azure.microsoft.com/zh-tw/)
 * [Heroku官網](https://www.heroku.com/)
-
-### Week 07. 容器技術簡介 (一)
-
-* [Get Started with Docker](https://docs.docker.com/get-started/)
-* [Try Docker | Code School](https://www.codeschool.com/courses/try-docker)
-* [Docker Tutorials and Labs](https://github.com/docker/labs)
-* [Katacoda](https://www.katacoda.com/)
-
-### Week 08. 容器技術簡介 (二)
 
 ### Week 09. 期中報告
 
@@ -88,6 +87,13 @@
 ### Week 17. Spark 機器學習 (三)
 
 ### Week 18. 期末報告
+
+### Week XX. 容器技術簡介
+
+* [Get Started with Docker](https://docs.docker.com/get-started/)
+* [Try Docker | Code School](https://www.codeschool.com/courses/try-docker)
+* [Docker Tutorials and Labs](https://github.com/docker/labs)
+* [Katacoda](https://www.katacoda.com/)
 
 ## 參考資料：
 
