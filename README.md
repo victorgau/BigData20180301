@@ -50,7 +50,10 @@
 
 ### Week 05. Python 機器學習 (三)
 
-繼續說明 dimensionality reduction, preprocessing, model selection 等概念。如果時間夠會講一下 Kaggle，如果時間不夠，Kaggle 會挪到下一次上課講。
+繼續說明 dimensionality reduction, preprocessing, model selection 等概念。
+
+* [關於 Overfitting](https://bit.ly/2uv4t6b)
+* [Model Selection](https://bit.ly/2Iagwbd)
 
 ### Week 06. 4/5 學校沒有上課 (?)
 
