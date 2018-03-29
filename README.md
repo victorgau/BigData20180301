@@ -88,6 +88,10 @@
 
 ### Week 18. 期末報告
 
+### Week XX. 深度學習簡介
+
+* [Deep Learning 中文版](https://github.com/exacity/deeplearningbook-chinese/releases/)
+
 ### Week XX. 容器技術簡介
 
 * [Get Started with Docker](https://docs.docker.com/get-started/)
@@ -111,3 +115,4 @@
 ## 相關資料：
 
 * [Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
+* [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
