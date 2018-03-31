@@ -53,6 +53,7 @@
 繼續說明 dimensionality reduction, preprocessing, model selection 等概念。
 
 * [關於 Overfitting](https://bit.ly/2uv4t6b)
+* [什麼是 L1/L2 Regularization](https://www.youtube.com/watch?v=TmzzQoO8mr4)
 * [Model Selection](https://bit.ly/2Iagwbd)
 * [SVM with polynomial kernel visualization](https://www.youtube.com/watch?v=3liCbRZPrZA)
 * [Data Preprocessing](https://bit.ly/2pUTkGi)
