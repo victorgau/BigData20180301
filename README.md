@@ -54,6 +54,9 @@
 
 * [關於 Overfitting](https://bit.ly/2uv4t6b)
 * [Model Selection](https://bit.ly/2Iagwbd)
+* [SVM with polynomial kernel visualization](https://www.youtube.com/watch?v=3liCbRZPrZA)
+* [Data Preprocessing](https://bit.ly/2pUTkGi)
+* [Model Evaluation](https://bit.ly/2E9nKtE)
 
 ### Week 06. 4/5 學校沒有上課 (?)
 
