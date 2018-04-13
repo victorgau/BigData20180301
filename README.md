@@ -59,9 +59,12 @@
 * [Data Preprocessing](https://bit.ly/2pUTkGi)
 * [Model Evaluation](https://bit.ly/2E9nKtE)
 
-### Week 06. 4/5 學校沒有上課 (?)
+### Week 06. 國定假日，不上課! (Oh Yeah~)
 
 ### Week 07. 巨量資料 (Big Data) 分析簡介
+
+* [Big Data 簡介講義](https://bit.ly/2JFQ7ng)
+* [Homework 03](https://bit.ly/2HpoGQt) - DUE: 2018/04/19 6:00pm (上課前)
 
 ### Week 08. 雲端服務簡介
 
