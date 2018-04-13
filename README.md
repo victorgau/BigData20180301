@@ -65,6 +65,7 @@
 
 * [Big Data 簡介講義](https://bit.ly/2JFQ7ng)
 * [Homework 03](https://bit.ly/2HpoGQt) - DUE: 2018/04/19 6:00pm (上課前)
+* 參考：[[資料分析&機器學習] 第4.1講 : Kaggle競賽-鐵達尼號生存預測(前16%排名)](https://bit.ly/2EJubnu)
 
 ### Week 08. 雲端服務簡介
 
