@@ -69,10 +69,12 @@
 
 ### Week 08. 雲端服務簡介
 
+* [雲端運算簡介](https://bit.ly/2EZegl9)
 * [AWS官網](https://aws.amazon.com/tw/)
 * [Google Cloud官網](https://cloud.google.com/)
 * [Azure官網](https://azure.microsoft.com/zh-tw/)
 * [Heroku官網](https://www.heroku.com/)
+* 參考：[文字分析Python入門](https://www.slideshare.net/xiaohuang545/python-87902078)
 
 ### Week 09. 期中報告
 
