@@ -76,7 +76,13 @@
 * [Heroku官網](https://www.heroku.com/)
 * 參考：[文字分析Python入門](https://www.slideshare.net/xiaohuang545/python-87902078)
 
-### Week 09. 期中報告
+### Week 09. 期中複習 (公布期中考題目)
+
+預計會：
+
+* 複習之前的上課內容
+* 講一下文字處理方法
+* 講一下期中考的題目 (DUE: 5/3 6:00pm 上課前) (會另開一個說明頁，說明期中考。)
 
 ### Week 10. Hadoop 環境建置說明
 
