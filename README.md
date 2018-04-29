@@ -78,11 +78,9 @@
 
 ### Week 09. 期中複習 (公布期中考題目)
 
-預計會：
-
 * 複習之前的上課內容
 * 講一下文字處理方法
-* 講一下期中考的題目 (DUE: 5/3 6:00pm 上課前) (會另開一個說明頁，說明期中考。)
+* [Midterm](https://github.com/victorgau/BigData20180301/tree/master/Midterm) - DUE: 5/3 6:00pm 上課前
 
 ### Week 10. Hadoop 環境建置說明
 

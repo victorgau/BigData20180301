@@ -1,6 +1,6 @@
 # 期中考 (Take-home)
 
-## DUE: 2018/05/04 (四) 6:00pm (上課前)
+## DUE: 2018/05/03 (四) 6:00pm (上課前)
 
 期中考我們不打 Kaggle 了，我們要打["台灣ETF價格預測競賽"](https://tbrain.trendmicro.com.tw/Competitions/Details/2)！
 
@@ -9,6 +9,8 @@
 請各位同學於 DUE 之前，記給我一份 .ipynb，裡面詳細的說明你的做法。
 
 繳交的 .ipynb 的部份，只須預測隔一天的漲跌及股價，並說明自己的 model 的 performance。
+
+需繳交的預測，請參考：[Tbrain - 台股ETF價格預測-評分試算表](https://tbrain.trendmicro.com.tw/Content/files/TBrain-TWETF-EvaluationSheet_v1.0.xlsx) 裡面的預測部分的格式。我只需要一天。
 
 BONUS:
 
