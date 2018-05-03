@@ -16,7 +16,7 @@
 
 * 課堂參與及個人新知報告 (20%)
 * 平時作業 (20%)
-* 期中報告 (30%)
+* 期中考 (30%)
 * 期末報告 (30%)
 
 ## 參考書籍：
@@ -80,10 +80,11 @@
 
 * 複習之前的上課內容
 * 講一下文字處理方法
-* [Midterm](https://github.com/victorgau/BigData20180301/tree/master/Midterm) - DUE: 5/3 6:00pm 上課前
+* [Midterm](https://github.com/victorgau/BigData20180301/tree/master/Midterm) - DUE: 5/3 (四) 6:00pm 上課前
 
 ### Week 10. Hadoop 環境建置說明
 
+* [中山大學管理學院大數據平台使用手冊(努力撰寫中)](https://cccm.gitbook.io/bigdata-platform-user-guide/)
 * [Single Node Cluster 安裝指令](https://goo.gl/X7ZcJj)
 * [Multi Node Cluster 安裝指令](https://goo.gl/Q9tCL7)
 
