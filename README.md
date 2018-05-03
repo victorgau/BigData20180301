@@ -87,6 +87,7 @@
 * [中山大學管理學院大數據平台使用手冊(努力撰寫中)](https://cccm.gitbook.io/bigdata-platform-user-guide/)
 * [Single Node Cluster 安裝指令](https://goo.gl/X7ZcJj)
 * [Multi Node Cluster 安裝指令](https://goo.gl/Q9tCL7)
+* [Hadoop+Spark安裝設定](https://ppt.cc/fphjjx)
 
 ### Week 11. Hadoop 使用教學 (一)
 
