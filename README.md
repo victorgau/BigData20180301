@@ -80,14 +80,22 @@
 
 * 複習之前的上課內容
 * 講一下文字處理方法
-* [Midterm](https://github.com/victorgau/BigData20180301/tree/master/Midterm) - DUE: 5/3 (四) 6:00pm 上課前
+* [Midterm](https://github.com/victorgau/BigData20180301/tree/master/Midterm) - DUE: 5/6 (日) 11:59pm
 
-### Week 10. Hadoop 環境建置說明
+### Week 10. Hadoop 簡介
 
-* [中山大學管理學院大數據平台使用手冊(努力撰寫中)](https://cccm.gitbook.io/bigdata-platform-user-guide/)
+我們稍微說明了 Hadoop Ecosystem 及 HDFS 的架構。然後動手操作電腦中心的大數據平台，不過一開始上課時遇到一些讀寫的問題 (已修正)。之後，我們安裝了 Virtualbox，並嘗試下載最新的 Ubuntu 映像檔來使用，不過遇到版本不符的問題。所以，最後我們使用 vagrant 直接下載 Virtual Machine 的 Box 來使用。
+
+我會請電腦中心開帳號給各位同學來練習使用 HDFS。
+
+另外，希望各位同學嘗試使用 virtualbox 在自己的電腦上面安裝一個 Linux 作業系統來做練習。如果想要學習使用 vagrant，我會找時間另外錄製影片讓大家參照。
+
+* [管院電腦中心大數據平台使用手冊(努力撰寫中)](https://cccm.gitbook.io/bigdata-platform-user-guide/)
 * [Single Node Cluster 安裝指令](https://goo.gl/X7ZcJj)
 * [Multi Node Cluster 安裝指令](https://goo.gl/Q9tCL7)
 * [Hadoop+Spark安裝設定](https://ppt.cc/fphjjx)
+* [Linux檔案與目錄管理指令](http://linux.vbird.org/linux_basic/redhat6.1/linux_06command.php#filesystem)
+* [vagrantbox.es](http://www.vagrantbox.es/)
 
 ### Week 11. Hadoop 使用教學 (一)
 
@@ -135,3 +143,4 @@
 
 * [Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 * [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+* [鳥哥Linux私房菜](http://linux.vbird.org/)

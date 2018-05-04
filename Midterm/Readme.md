@@ -1,6 +1,6 @@
 # 期中考 (Take-home)
 
-## DUE: 2018/05/03 (四) 6:00pm (上課前)
+## DUE: 2018/05/06 (日) 11:59pm
 
 期中考我們不打 Kaggle 了，我們要打["台灣ETF價格預測競賽"](https://tbrain.trendmicro.com.tw/Competitions/Details/2)！
 
