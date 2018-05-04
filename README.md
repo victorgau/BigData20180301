@@ -88,7 +88,7 @@
 
 我會請電腦中心開帳號給各位同學來練習使用 HDFS。
 
-另外，希望各位同學嘗試使用 virtualbox 在自己的電腦上面安裝一個 Linux 作業系統來做練習。如果想要學習使用 vagrant，我會找時間另外錄製影片讓大家參照。
+另外，希望各位同學嘗試使用 virtualbox 在自己的電腦上面安裝一個 Linux 作業系統來做練習。如果想要學習使用 vagrant，可以參考[這個連結](https://bit.ly/2rpdZEj)。
 
 * [管院電腦中心大數據平台使用手冊(努力撰寫中)](https://cccm.gitbook.io/bigdata-platform-user-guide/)
 * [Single Node Cluster 安裝指令](https://goo.gl/X7ZcJj)
