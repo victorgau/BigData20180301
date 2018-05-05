@@ -144,3 +144,4 @@
 * [Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 * [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 * [鳥哥Linux私房菜](http://linux.vbird.org/)
+* [現代 IT 人一定要知道的 Ansible 自動化組態技巧](https://legacy.gitbook.com/book/chusiang/automate-with-ansible/details)
