@@ -27,6 +27,8 @@ BONUS:
 
 請將系統評分的截圖寄至上面的 email，"[2018巨量資料期中考] 學號 - BONUS"
 
+如果讀取資料遇到問題，可以參考助教寫的[說明](https://hackmd.io/s/ryDB574aM)。
+
 一些參考做法 (google 一下，有很多！)：
 
 * [量化投資 Project 02](https://github.com/ChenHandsomeboy/Team_Project)
