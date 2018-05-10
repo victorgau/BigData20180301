@@ -106,6 +106,7 @@
 
 另外，我們還說明如何在 AWS EC2 建立的 Instance 上面設定 notebook server，好讓 local 端可以連上雲端使用 Jupyter notebook。如果想要善用雲端的 GPU，也可以透過這樣的方式使用。
 
+* [如何在雲端主機上面安裝 Anaconda](https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-16-04)
 * [Configure Jupyter Notebook on Your EC2 Instance](https://docs.aws.amazon.com/mxnet/latest/dg/setup-jupyter-configure-server.html)
 * [Running a notebook server](http://jupyter-notebook.readthedocs.io/en/stable/public_server.html)
 
