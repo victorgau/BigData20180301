@@ -74,6 +74,7 @@
 * [Google Cloud官網](https://cloud.google.com/)
 * [Azure官網](https://azure.microsoft.com/zh-tw/)
 * [Heroku官網](https://www.heroku.com/)
+* [使用 PuTTY 从 Windows 连接到 Linux 实例](https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/putty.html)
 * 參考：[文字分析Python入門](https://www.slideshare.net/xiaohuang545/python-87902078)
 
 ### Week 09. 期中複習 (公布期中考題目)
@@ -97,7 +98,16 @@
 * [Linux檔案與目錄管理指令](http://linux.vbird.org/linux_basic/redhat6.1/linux_06command.php#filesystem)
 * [vagrantbox.es](http://www.vagrantbox.es/)
 
-### Week 11. Hadoop 使用教學 (一)
+### Week 11. HDFS 使用練習
+
+在這堂課，我們在學校的電腦上使用 VirtualBox 安裝了 Ubuntu 16.04，並稍微說明 Linux 的使用。
+
+每個同學都有收到一組帳號密碼，可以在管院電腦中心的 Hadoop 集群上面練習 HDFS 的使用。
+
+另外，我們還說明如何在 AWS EC2 建立的 Instance 上面設定 notebook server，好讓 local 端可以連上雲端使用 Jupyter notebook。如果想要善用雲端的 GPU，也可以透過這樣的方式使用。
+
+* [Configure Jupyter Notebook on Your EC2 Instance](https://docs.aws.amazon.com/mxnet/latest/dg/setup-jupyter-configure-server.html)
+* [Running a notebook server](http://jupyter-notebook.readthedocs.io/en/stable/public_server.html)
 
 ### Week 12. Hadoop 使用教學 (二)
 
