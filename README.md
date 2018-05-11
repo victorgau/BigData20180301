@@ -100,7 +100,7 @@
 
 ### Week 11. HDFS 使用練習
 
-在這堂課，我們在學校的電腦上使用 VirtualBox 安裝了 Ubuntu 16.04，並稍微說明 Linux 的使用。
+本次上課，我們在學校的電腦上使用 VirtualBox 安裝了 Ubuntu 16.04，並稍微說明 Linux 的使用。
 
 每個同學都有收到一組帳號密碼，可以在管院電腦中心的 Hadoop 集群上面練習 HDFS 的使用。
 
