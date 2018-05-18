@@ -159,9 +159,12 @@
 ## 深度學習相關：
 
 * [Keras 官網](https://keras.io/)
+* [Theano](http://deeplearning.net/software/theano/) - 注意：Theano 已不再更新。
 * [TensorFlow 官網](https://www.tensorflow.org/)
+* [CNTK](https://github.com/Microsoft/CNTK)
 * [PyTorch 官網](https://pytorch.org/)
 * [Deep Learning 中文版](https://github.com/exacity/deeplearningbook-chinese/releases/)
+* [Keras 中文說明文件](https://keras-cn.readthedocs.io/en/latest/)
 
 ## 其他相關資料：
 
