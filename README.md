@@ -98,7 +98,7 @@
 * [Linux檔案與目錄管理指令](http://linux.vbird.org/linux_basic/redhat6.1/linux_06command.php#filesystem)
 * [vagrantbox.es](http://www.vagrantbox.es/)
 
-### Week 11. HDFS 使用練習
+### Week 11. HDFS 使用練習 (一)
 
 本次上課，我們在學校的電腦上使用 VirtualBox 安裝了 Ubuntu 16.04，並稍微說明 Linux 的使用。
 
@@ -110,13 +110,22 @@
 * [Configure Jupyter Notebook on Your EC2 Instance](https://docs.aws.amazon.com/mxnet/latest/dg/setup-jupyter-configure-server.html)
 * [Running a notebook server](http://jupyter-notebook.readthedocs.io/en/stable/public_server.html)
 
-### Week 12. Hadoop 使用教學 (二)
+### Week 12. HDFS 使用練習 (二)
 
-### Week 13. Spark 環境建置說明
+* 複習一下 Hadoop 的核心觀念。參考：[Hadoop 簡介](https://bit.ly/2Iq5ZsT)
+* 簡介 Spark
+* 在大數據平台上操作 spark shell，讀取 HDFS 上的文字檔。
+* 說明 RDD, DataFrame, Dataset
+* 說明 Transformation 及 Action APIs
+* 複習 Python 的 Functional Programming 工具：lambda, map, reduce, filter
 
-* [Spark 介紹與安裝](https://goo.gl/BbHGKt)
+### Week 13. 深度學習簡介
+
+因為大部分同學在問卷上表示對深度學習有極高的興趣，所以預計會介紹 Keras 的使用。
 
 ### Week 14. Spark 使用教學
+
+* [Spark 介紹與安裝](https://goo.gl/BbHGKt)
 
 ### Week 15. Spark 機器學習 (一)
 
@@ -126,9 +135,6 @@
 
 ### Week 18. 期末報告
 
-### Week XX. 深度學習簡介
-
-* [Deep Learning 中文版](https://github.com/exacity/deeplearningbook-chinese/releases/)
 
 ### Week XX. 容器技術簡介
 
@@ -150,7 +156,14 @@
 * [Hadoop官網](http://hadoop.apache.org/)
 * [Spark官網](https://spark.apache.org/)
 
-## 相關資料：
+## 深度學習相關：
+
+* [Keras 官網](https://keras.io/)
+* [TensorFlow 官網](https://www.tensorflow.org/)
+* [PyTorch 官網](https://pytorch.org/)
+* [Deep Learning 中文版](https://github.com/exacity/deeplearningbook-chinese/releases/)
+
+## 其他相關資料：
 
 * [Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 * [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
