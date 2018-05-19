@@ -167,6 +167,7 @@
 * [Keras 中文說明文件](https://keras-cn.readthedocs.io/en/latest/)
 * [與高中生談 Deep Learning (蔡炎龍老師)](https://bit.ly/2rT46xX)
 * [Deep Learning by Andrew Ng](https://bit.ly/2rRIClO)
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
 ## 其他相關資料：
 
