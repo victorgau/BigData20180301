@@ -23,6 +23,9 @@
 
 * [Sebastian Raschka, Python Machine Learning, Packt Publishing, 2015](http://bit.ly/2FM9CMN)
 * [林大貴, Python+Spark 2.0+Hadoop機器學習與大數據分析實戰, 博碩出版社, 2016](http://www.books.com.tw/products/0010730134)
+* [林大貴, TensorFlow+Keras深度學習人工智慧實務應用, 博碩出版社, 2017](http://www.books.com.tw/products/0010754327)
+
+(上面書籍學校圖書館或高雄市立圖書館應該都借的到，也可查詢一下高雄雲端書庫裡面有沒有。)
 
 ## 課綱：
 
