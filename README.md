@@ -171,6 +171,7 @@
 * [與高中生談 Deep Learning (蔡炎龍老師)](https://bit.ly/2rT46xX)
 * [Deep Learning by Andrew Ng](https://bit.ly/2rRIClO)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+* [李宏毅老師 YouTube 頻道](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)
 
 ## 其他相關資料：
 
