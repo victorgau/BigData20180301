@@ -122,15 +122,20 @@
 * 說明 Transformation 及 Action APIs
 * 複習 Python 的 Functional Programming 工具：lambda, map, reduce, filter
 
-### Week 13. 深度學習簡介
+### Week 13. 深度學習簡介 (一)
 
-因為大部分同學在問卷上表示對深度學習有極高的興趣，所以預計會介紹 Keras 的使用。
+* 複習 Python 的 OOP
+* [簡介神經網路](https://bit.ly/2IRHOE8)
+* [簡介 Keras](https://bit.ly/2ITViiw)
+* [Homework 04](https://bit.ly/2sfkCZg) - DUE: 5/31 (四) 06:00pm (上課前)
 
-### Week 14. Spark 使用教學
+### Week 14. 深度學習簡介 (二)
 
-* [Spark 介紹與安裝](https://goo.gl/BbHGKt)
+* [Homework 05](https://bit.ly/2xhSElr) - DUE: 6/07 (四) 06:00pm (上課前)
 
 ### Week 15. Spark 機器學習 (一)
+
+* [Spark 介紹與安裝](https://goo.gl/BbHGKt)
 
 ### Week 16. Spark 機器學習 (二)
 
