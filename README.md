@@ -131,10 +131,15 @@
 
 ### Week 14. 深度學習簡介 (二)
 
+* 說明使用 Keras 建的 MLP 來做 Titanic 資料集的生存預測
+* 說明 GD 跟 SGD。參考[此一連結](https://bit.ly/2xLATuW)。
+* 說明 Python 的 yield 關鍵字跟 Generator
+* 說明 online learning 跟 mini-batch
 * [Homework 05](https://bit.ly/2xhSElr) - DUE: 6/07 (四) 06:00pm (上課前)
 
 ### Week 15. Spark 機器學習 (一)
 
+* 請務必分好組 (三人一組)，並決定期末報告的題目
 * [Spark 介紹與安裝](https://goo.gl/BbHGKt)
 
 ### Week 16. Spark 機器學習 (二)
