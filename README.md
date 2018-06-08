@@ -141,6 +141,7 @@
 
 * 請務必分好組 (三人一組)，並決定期末報告的題目
 * [Spark 介紹與安裝](https://goo.gl/BbHGKt)
+* [Bonus 01](https://github.com/victorgau/BigData20180301/tree/master/Bonus01) - DUE: 6/14 (四) 06:00pm (上課前)
 
 ### Week 16. Spark 機器學習 (二)
 
