@@ -145,10 +145,14 @@
 
 ### Week 16. Spark 機器學習 (二)
 
-### Week 17. Spark 機器學習 (三)
+* 期末報告摘要，DUE: 6/21 (四) 06:00pm (上課前)
+
+### Week 17. 拾缺補漏
 
 ### Week 18. 期末報告
 
+* 每組五分鐘，擇要報告期末報告內容。
+* 每組需將期末報告做成網頁上線，內容參考[http://cm.nsysu.edu.tw/~msrc/wp/?page_id=446](http://cm.nsysu.edu.tw/~msrc/wp/?page_id=446)。
 
 ### Week XX. 容器技術簡介
 
