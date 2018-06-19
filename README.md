@@ -85,6 +85,7 @@
 * 複習之前的上課內容
 * 講一下文字處理方法
 * [Midterm](https://github.com/victorgau/BigData20180301/tree/master/Midterm) - DUE: 5/6 (日) 11:59pm
+* [期中考參考作法](https://youtu.be/JEO8fMb4PY8)
 
 ### Week 10. Hadoop 簡介
 
@@ -135,6 +136,7 @@
 * 說明 GD 跟 SGD。參考[此一連結](https://bit.ly/2xLATuW)。
 * 說明 Python 的 yield 關鍵字跟 Generator
 * 說明 online learning 跟 mini-batch
+* [OOP範例](https://youtu.be/7VnWzRuGlPA)
 * [Homework 05](https://bit.ly/2xhSElr) - DUE: 6/07 (四) 06:00pm (上課前)
 
 ### Week 15. Spark 機器學習 (一)
@@ -145,14 +147,15 @@
 
 ### Week 16. Spark 機器學習 (二)
 
+* [管理學院大數據平台使用說明](https://youtu.be/p-YgqW2ySbQ)
 * 期末報告摘要，DUE: 6/21 (四) 06:00pm (上課前)
 
-### Week 17. 拾缺補漏
+### Week 17. 拾缺補遺
 
 ### Week 18. 期末報告
 
 * 每組五分鐘，擇要報告期末報告內容。
-* 每組需將期末報告做成網頁上線，內容參考[http://cm.nsysu.edu.tw/~msrc/wp/?page_id=446](http://cm.nsysu.edu.tw/~msrc/wp/?page_id=446)。
+* 每組需將期末報告做成網頁上線，內容參考[這裡](http://cm.nsysu.edu.tw/~msrc/wp/?page_id=446)。
 
 ### Week XX. 容器技術簡介
 
