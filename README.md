@@ -152,10 +152,14 @@
 
 ### Week 17. 拾缺補遺
 
+* 複習了整個學期的課程內容
+* 課程中無法涵蓋的熱門主題，如 docker, kubernetes, reinforcement learning，則給同學們一些方向，讓同學們自主學習。
+
 ### Week 18. 期末報告
 
 * 每組五分鐘，擇要報告期末報告內容。
 * 每組需將期末報告做成網頁上線，內容參考[這裡](http://cm.nsysu.edu.tw/~msrc/wp/?page_id=446)。
+* [各組主題及網址](https://github.com/victorgau/BigData20180301/tree/master/Final)
 
 ### Week XX. 容器技術簡介
 
