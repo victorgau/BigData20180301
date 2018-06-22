@@ -16,5 +16,5 @@ Q&A: 5分鐘
 * [第六組 - 股價預測](https://github.com/x456uy78/2018/tree/master/final_report)
 * [第七組 - Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals](https://github.com/ChenYiHua318/2018NSYSUBigData/tree/master/Final%20Project)
 * [第八組 - 比幣特價格預測](https://github.com/vivian1725/2018NSYSUBigData/blob/master/project_name.md)
-* 第九組 - 題目待定
+* [第九組 - 使用xgboost Expedia Hotel Recommendations](https://github.com/jyunlin/2018Project_team9/blob/master/README.md)
 * [第十組 - Kobe Bryant多會射？- Kobe生涯投籃表現分析與模型預測](https://github.com/efang55/2017FM615/blob/master/Final/README.md)
