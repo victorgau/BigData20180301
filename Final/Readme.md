@@ -14,7 +14,7 @@ Q&A: 5分鐘
 * [第四組 - CNN Mnist實作 + CAE Mnist實作 + 以K線圖實作CAE](https://github.com/alexlauforgithub/2018NSYSUBigData/blob/master/Final%20Project/期末Markdown/巨量期末.md)
 * [第五組 - 使用vix預測股價](https://github.com/xsy1215/BIG-DATA-ANALYTICS/blob/master/FINAL%20REPORT/destinty.md)
 * [第六組 - Stock Trend Prediction: Which is better?](https://github.com/AirvenWu/2018NSYSUBigData_M064810015/blob/master/Final-project.ipynb)
-* [第七組 - Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals](https://github.com/ChenYiHua318/2018NSYSUBigData/blob/master/Final%20Project/Final%20Project/Final%20Project.md)
+* [第七組 - 上帝視角　解開獲利密碼](https://github.com/ChenYiHua318/2018NSYSUBigData/blob/master/Final%20Project/Final%20Project/Final%20Project.md)
 * [第八組 - 比特幣價格預測](https://github.com/vivian1725/HOMEWORK/blob/master/final_project.md)
 * [第九組 - 使用xgboost Expedia Hotel Recommendations](https://github.com/jyunlin/2018Project_team9/blob/master/README.md)
 * [第十組 - Kobe Bryant多會射？- Kobe生涯投籃表現分析與模型預測](https://github.com/efang55/2017FM615/blob/master/Final/Final_project.md)
